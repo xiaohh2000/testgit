@@ -1,0 +1,7 @@
+This is a test version of GIT, it's a free software tool
+
+File updated for the first time, try it first.
+
+File updated for the 2nd time, committed again.
+
+Fir change for the 3rd time.
